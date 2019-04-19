@@ -1,7 +1,7 @@
-JavaScript Jasmine Demo
-=======================
+JavaScript Jasmine Generate Tests Demo
+=======================================
 
-在命令行中运行`Jasmine`跑测试
+在Jasmine中可以根据数据来生成测试，在最终的报告上会比较容易看。
 
 ```
 npm install
